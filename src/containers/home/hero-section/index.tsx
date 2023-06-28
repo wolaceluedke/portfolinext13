@@ -61,7 +61,7 @@ export const HeroSection = () => {
           <p className="font-mono text-cyan-400">Olá, meu nome é</p>
           <h2 className="text-4xl font-medium mt-2">Wolace Luedke</h2>
           <p className="text-gray-400 my-6 text-sm sm:text base ">
-          Sou um apaixonado por tecnologia que atua como desenvolvedor web. Tenho um ano de experiência de estudos na área em desenvolvimento full stack. Meu objetivo principal é criar interfaces de usuário que sejam tanto atraentes visualmente quanto funcionais em sua execução. 
+          Sou um apaixonado por tecnologia que atua como desenvolvedor web. Tenho um ano de experiência na área em desenvolvimento full stack. Meu objetivo principal é criar interfaces de usuário que sejam tanto atraentes visualmente quanto funcionais em sua execução. 
           </p>
           <div className="flex flex-wrap gap-x-2 gap-y-3 lg:max-w-[340px]">
             {technologies.map((tech, index) => (
