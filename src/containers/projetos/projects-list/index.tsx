@@ -12,7 +12,7 @@ export const ProjectsList = () => {
         exit={{ opacity: 0, y: 100 }}
         transition={{ duration: 0.6 }}
       >
-        <Link href="/projetos/prostyle">
+        <Link href="/pages/projetos/prostyle">
           <ProjectCard />
         </Link>
       </motion.div>
