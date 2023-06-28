@@ -27,7 +27,7 @@ export const ExperienceItem = () => {
           <p className="text-gray-400 ">
             Realizei um projeto freelancer para uma empresa prestadora de
             serviços, na qual eles tinha como objetivo mostrar os serviços que
-            eles prestavam para mandar para clientes
+            eles prestavam para mandar para clientes.
           </p>
         </div>
       </div>

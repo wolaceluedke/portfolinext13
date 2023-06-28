@@ -21,7 +21,7 @@ export const WorkExperience = () => {
           className="text-gray-400 mt-6"
         >
           Estou sempre aberto a novos desafios e projetos emocionantes. Vamos
-          trabalhar juntos para criar soluções incriveis
+          trabalhar juntos para criar soluções incriveis.
         </motion.p>
       </div>
       <div className="flex flex-col gap-4">
