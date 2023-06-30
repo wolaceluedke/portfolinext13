@@ -23,7 +23,7 @@ export const PageIntroduction = () => {
           Aqui você poderá ver alguns trabalhos que eu desenvolvi. Navegue á
           vontade e explore os projetos.
         </p>
-        <Link href="">
+        <Link href="/">
           <HiArrowNarrowLeft size={20} />
           Voltar para home
         </Link>
