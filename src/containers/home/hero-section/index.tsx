@@ -15,7 +15,7 @@ const MOCK_CONTACTS = [
     icon: <TbBrandGithub />,
   },
   {
-    url: 'https://github.com/wolaceluedke',
+    url: 'https://www.linkedin.com/in/wolace-luedke-94165218a/',
     icon: <TbBrandLinkedin />,
   },
   {
